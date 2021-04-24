@@ -580,6 +580,7 @@ class Game(tk.Tk):
                 self.disable_controls(self.level > 8, True, False)
             if self.level > 8:
                 messagebox.showinfo(message="ИГРА ОКОНЧЕНА!")
+                self.level -= 1
             if self.logged:
                 self.db.update_user_data(self.user, self.total_scores, self.orientation,
                                          self.level, self.lang, self.schema, self.show_msg)

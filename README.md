@@ -37,8 +37,8 @@ Project for hackathon`21, "Keyboard trainer" game
 #### Ограничение на длину названия темы / псевдонима темы - 25 символов.
 
 #### Команда "ПНЗКН Хакатон'21".
-[@Prospero2005](https://t.me/prospero2005) (Идея, логика, сборка)
-[@Posegrey](https://t.me/Posegrey) (База данных)
-[@Lenz_Gardfild](https://t.me/Lenz_Gardfild) (Подбор данных, тесты)
-[@quqpup](https://t.me/quqpup) (Интерфейс, отладка)
+#### [@Prospero2005](https://t.me/prospero2005) (Идея, логика, сборка)
+#### [@Posegrey](https://t.me/Posegrey) (База данных)
+#### [@Lenz_Gardfild](https://t.me/Lenz_Gardfild) (Подбор данных, тесты)
+#### [@quqpup](https://t.me/quqpup) (Интерфейс, отладка)
 
